@@ -1,2 +1,2 @@
-# Shinangins
+# Shenanigans
 experiment repo
